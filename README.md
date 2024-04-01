@@ -3,7 +3,8 @@
 
 ## 🚀 Welcome to the Engaging Animation Project !
 
-## This is a simple Engaging website that is created by using HTML and CSS Animation .
+## Description :
+This is a simple Engaging website that is created by using HTML and CSS Animation .
 
 ## Preview of the website :
 
