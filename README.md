@@ -1,7 +1,7 @@
 # Engaging Animation Project :
 
 
-## 🚀 Welcome to the Engaging Animation Project !  .......
+## 🚀 Welcome to the Engaging Animation Project !  ......
 
 
 ## Description :
